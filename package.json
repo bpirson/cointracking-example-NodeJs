@@ -1,0 +1,27 @@
+{
+  "name": "cointracking",
+  "version": "1.0.0",
+  "description": "cointracking example project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bpirson/cointracking.git"
+  },
+  "author": "Bjorn Pirson",
+  "license": "MIT",
+  "dependencies": {
+    "form-data": "~2.3.1",
+    "moment": "~2.19.1",
+    "node-fetch": "~1.7.3",
+    "password-hasher": "~1.0.1",
+    "qhttp": "~0.6.0"
+  },
+  "bugs": {
+    "url": "https://github.com/bpirson/cointracking/issues"
+  },
+  "homepage": "https://github.com/bpirson/cointracking#readme"
+}

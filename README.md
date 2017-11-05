@@ -1,2 +1,10 @@
-# cointracking-example-NodeJs
-Example project for the CoinTracking API
+# Cointracking example
+
+Example NodeJS project for the CoinTracking API
+
+Change the key and secret.
+
+```bash
+npm install
+npm start
+```
