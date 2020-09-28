@@ -16,7 +16,7 @@
   "dependencies": {
     "form-data": "~2.3.1",
     "moment": "~2.19.1",
-    "node-fetch": "~1.7.3",
+    "node-fetch": "~2.6.1",
     "password-hasher": "~1.0.1",
     "qhttp": "~0.6.0"
   },
